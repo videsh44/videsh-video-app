@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/videsh-video-app/static/js/main.5bcea4b6.chunk.js",
+    "main.js.map": "/videsh-video-app/static/js/main.5bcea4b6.chunk.js.map",
+    "runtime-main.js": "/videsh-video-app/static/js/runtime-main.b2b96279.js",
+    "runtime-main.js.map": "/videsh-video-app/static/js/runtime-main.b2b96279.js.map",
+    "static/js/2.6f5dd003.chunk.js": "/videsh-video-app/static/js/2.6f5dd003.chunk.js",
+    "static/js/2.6f5dd003.chunk.js.map": "/videsh-video-app/static/js/2.6f5dd003.chunk.js.map",
+    "index.html": "/videsh-video-app/index.html",
+    "precache-manifest.08a820713c2642025a1d9e58b9acabf1.js": "/videsh-video-app/precache-manifest.08a820713c2642025a1d9e58b9acabf1.js",
+    "service-worker.js": "/videsh-video-app/service-worker.js",
+    "static/js/2.6f5dd003.chunk.js.LICENSE.txt": "/videsh-video-app/static/js/2.6f5dd003.chunk.js.LICENSE.txt",
+    "static/media/google-logo.0e56efd0.svg": "/videsh-video-app/static/media/google-logo.0e56efd0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2b96279.js",
+    "static/js/2.6f5dd003.chunk.js",
+    "static/js/main.5bcea4b6.chunk.js"
+  ]
+}
